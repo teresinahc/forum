@@ -1,2 +1,2 @@
 # forum
-Fórum para discussões de vários temas.
+Fórum para discussão de vários temas.
