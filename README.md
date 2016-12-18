@@ -2,7 +2,7 @@
   <img src="https://avatars0.githubusercontent.com/u/10833631?v=3&s=200.jpg" alt="Teresina Hacker Clube" width="230" />
 </p>
 
-# Fórum
+# Teresina Hacker Clube - Fórum
 
 > Indexar de forma mais acessível discussões de vários temas.
 
